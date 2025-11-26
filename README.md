@@ -79,7 +79,7 @@ Discord → https://discord.gg/expo
 🧰 Tech Stack
 Layer	Technology
 Frontend	React Native (Expo)
-Backend	FastAPI
+Backend	Typescript
 Database	Supabase
 Auth	OAuth2 + JWT
 Cloud	Google Cloud
