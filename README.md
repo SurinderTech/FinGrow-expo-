@@ -1,6 +1,6 @@
 <!-- Logo Section -->
 <p align="center">
-  <img src="https://1drv.ms/i/c/8ca4d659591852a3/IQAult_yw_kRRa3qsljf6o_0AeN6ied8p4sEesN8ro3dEiE?e=WhfAcF"
+  <img src="Screenshot (707)-photoaidcom-cropped.png"
        alt="FinGrow Logo"
        width="160">
 </p>
