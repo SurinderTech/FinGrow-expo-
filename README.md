@@ -87,31 +87,41 @@ Notifications	FCM / Twilio
 Finance APIs	Alpha Vantage
 Charts	Recharts
 
-<h1>📸 Screenshots</h1>
-Replace the file names with your actual images
+# 📸 Screenshots
 
-<p align="center"> <img src="./assets/screenshot1.jpg" width="250"> <img src="./assets/screenshot2.jpg" width="250"> </p>
-👨‍💻 Developer & Team
-⭐ Developer
-Surinder Kumar
+> Replace the file names with your actual images inside the `assets` folder.
 
-👥 Team Members
-Ridhima Soni
+<p align="center">
+  <img src="assets/screenshot1.jpg" width="250" />
+  <img src="assets/screenshot2.jpg" width="250" />
+</p>
 
-Vanshika Thakur
+---
 
-Ansh
+# 👨‍💻 Developer & Team
 
-🎓 Faculty Coordinator
-Mrs. Sunaina Thappa (HOD CSE)
+## ⭐ Developer
+- **Surinder Kumar**
 
-🏆 Hackathon
-Built for PTU × Punjab & Sind Bank Hackathon 2025
+## 👥 Team Members
+- Ridhima Soni  
+- Vanshika Thakur  
+- Ansh  
+
+## 🎓 Faculty Coordinator
+- **Mrs. Sunaina Thappa (HOD CSE)**
+
+## 🏆 Hackathon
+Built for **PTU × Punjab & Sind Bank Hackathon 2025**
+
+---
 
 ## ❤️ Made With Love
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-❤️%20by%20Surinder%20Kumar-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Made%20With-Love%20by%20Surinder%20Kumar-red?style=for-the-badge" />
 </p>
 
-<p align="center">© 2025 FinGrow — Empowering Financial Literacy</p>
+<p align="center">
+  © 2025 FinGrow — Empowering Financial Literacy
+</p>
